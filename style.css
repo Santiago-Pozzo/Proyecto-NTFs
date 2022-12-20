@@ -83,7 +83,7 @@ header{
 
 .cart-icon{
     font-weight: 600;
-    border-radius: 10px;
+    border-radius: 5px;
     height: 30px;
     pad: 5px 10px;
     margin-right: 1rem;
@@ -96,6 +96,7 @@ header{
 #hero{
     margin-top: 65px;
     padding: 70px 0px;
+    gap: 20px;
     max-width: 1200px;
     display: flex;
     justify-content: center;
